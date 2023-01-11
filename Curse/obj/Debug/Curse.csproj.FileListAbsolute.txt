@@ -1,0 +1,24 @@
+C:\Users\oqly\Desktop\ЯГТУ\4 семестр\ТП\Curse\Curse\bin\Debug\Curse.exe
+C:\Users\oqly\Desktop\ЯГТУ\4 семестр\ТП\Curse\Curse\bin\Debug\Curse.pdb
+C:\Users\oqly\Desktop\ЯГТУ\4 семестр\ТП\Curse\Curse\obj\Debug\Curse.csproj.AssemblyReference.cache
+C:\Users\oqly\Desktop\ЯГТУ\4 семестр\ТП\Curse\Curse\obj\Debug\Curse.Form1.resources
+C:\Users\oqly\Desktop\ЯГТУ\4 семестр\ТП\Curse\Curse\obj\Debug\Curse.MDIParent1.resources
+C:\Users\oqly\Desktop\ЯГТУ\4 семестр\ТП\Curse\Curse\obj\Debug\Curse.Properties.Resources.resources
+C:\Users\oqly\Desktop\ЯГТУ\4 семестр\ТП\Curse\Curse\obj\Debug\Curse.csproj.GenerateResource.cache
+C:\Users\oqly\Desktop\ЯГТУ\4 семестр\ТП\Curse\Curse\obj\Debug\Curse.csproj.CoreCompileInputs.cache
+C:\Users\oqly\Desktop\ЯГТУ\4 семестр\ТП\Curse\Curse\obj\Debug\Curse.exe
+C:\Users\oqly\Desktop\ЯГТУ\4 семестр\ТП\Curse\Curse\obj\Debug\Curse.pdb
+C:\Users\oqly\Desktop\ЯГТУ\4 семестр\ТП\Curse\Curse\obj\Debug\Curse.Form2.resources
+C:\Projects\ТП\Curse\Curse\bin\Debug\Curse.exe.config
+C:\Projects\ТП\Curse\Curse\bin\Debug\Curse.exe
+C:\Projects\ТП\Curse\Curse\bin\Debug\Curse.pdb
+C:\Projects\ТП\Curse\Curse\obj\Debug\Curse.csproj.AssemblyReference.cache
+C:\Projects\ТП\Curse\Curse\obj\Debug\Curse.csproj.SuggestedBindingRedirects.cache
+C:\Projects\ТП\Curse\Curse\obj\Debug\Curse.Form1.resources
+C:\Projects\ТП\Curse\Curse\obj\Debug\Curse.Form2.resources
+C:\Projects\ТП\Curse\Curse\obj\Debug\Curse.MDIParent1.resources
+C:\Projects\ТП\Curse\Curse\obj\Debug\Curse.Properties.Resources.resources
+C:\Projects\ТП\Curse\Curse\obj\Debug\Curse.csproj.GenerateResource.cache
+C:\Projects\ТП\Curse\Curse\obj\Debug\Curse.csproj.CoreCompileInputs.cache
+C:\Projects\ТП\Curse\Curse\obj\Debug\Curse.exe
+C:\Projects\ТП\Curse\Curse\obj\Debug\Curse.pdb
